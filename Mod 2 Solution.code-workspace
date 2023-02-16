@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "Coursera-Test",
+		"path": "Coursera-Test"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Mod 2 Solution"
+  }
+}

@@ -1,0 +1,17 @@
+body {
+  background: white;
+}
+
+h1 {
+  text-align: center;
+  margin: 1px;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 180%;
+}
+
+p {
+  position: relative;
+  padding: 10%;
+  width: 100;
+}
